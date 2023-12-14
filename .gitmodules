@@ -1,0 +1,3 @@
+[submodule "app-python"]
+	path = app-python
+	url = https://github.com/satya131113/app-python.git
