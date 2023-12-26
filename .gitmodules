@@ -1,3 +1,6 @@
 [submodule "app-python"]
 	path = app-python
 	url = https://github.com/satya131113/app-python.git
+[submodule "llm-chatbot-python"]
+	path = llm-chatbot-python
+	url = https://github.com/satya131113/llm-chatbot-python.git
